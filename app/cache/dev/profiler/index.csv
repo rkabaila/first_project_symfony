@@ -1,0 +1,9 @@
+875504,127.0.0.1,GET,http://localhost:8000/,1455284892,,200
+ed40dd,::1,GET,http://localhost/first_project_symfony_1.0/web/app_dev.php/,1455285813,,200
+45b659,::1,GET,http://localhost/first_project_symfony_1.0/web/app_dev.php/,1455286663,,200
+b608a7,127.0.0.1,GET,http://localhost:8000/,1455286702,,200
+07bb3a,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1455287986,ed89ab,200
+ed89ab,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1455287986,,404
+09314e,127.0.0.1,GET,http://localhost:8000/,1455288095,,200
+f13b86,127.0.0.1,GET,http://localhost:8000/,1455288602,,200
+73a8ad,::1,GET,http://localhost/first_project_symfony_1.0/web/app_dev.php/,1455289070,,200
